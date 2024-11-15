@@ -1,5 +1,12 @@
+<div align="center">
+
+# Welcome to My Profile 🎉
 
 [![ahakki's 42 stats](https://badge.mediaplus.ma/black/ahakki)](https://github.com/oakoudad/badge42)
+
+I'm Hakki Abdelaziz, and I love coding, painting, and sports!
+
+</div>
 
 ---
 # Hi there! I'm Hakki Abdelaziz 👋  
