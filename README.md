@@ -4,12 +4,11 @@
 
 [![ahakki's 42 stats](https://badge.mediaplus.ma/black/ahakki)](https://github.com/oakoudad/badge42)
 
-I'm Hakki Abdelaziz, and I love coding, painting, and sports!
+# Hi there! I'm Hakki Abdelaziz 👋
 
 </div>
 
 ---
-# Hi there! I'm Hakki Abdelaziz 👋  
 
 Welcome to my GitHub profile!  
 I'm a 22-year-old student at **1337**, a school powered by the 42 Network.  
