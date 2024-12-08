@@ -2,7 +2,7 @@
 
 # Welcome to My Profile 🎉
 
-[![ahakki's 42 stats](https://badge.mediaplus.ma/black/ahakki)](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
 
 # Hi there! I'm Hakki Abdelaziz 👋
 
