@@ -9,7 +9,7 @@
 ---
 
 Welcome to my GitHub profile!  
-I'm a 22-year-old student at **1337**, a school powered by the 42 Network.  
+I'm a 23-year-old student at **1337**, a school powered by the 42 Network.  
 I’m passionate about learning, exploring, and creating. Whether it’s coding, painting, or playing sports, I love diving into new challenges and growing along the way.  
 
 ---
