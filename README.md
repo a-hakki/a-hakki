@@ -27,12 +27,6 @@ I’m passionate about learning, exploring, and creating. Whether it’s coding,
 
 ---
 
-## ⚽ Outside the Code  
-- **Sports Enthusiast**: Basketball after dinner, street football, swimming, and gym sessions are key parts of my week.  
-- **Creative Soul**: While my brush may have been idle for a while, I'm eager to bring life back to my art.  
-
----
-
 ## 🛠 Tools and Skills  
 - **Programming Languages**: C, PHP (Laravel), and Bash.  
 - **Version Control**: Git & GitHub.  
